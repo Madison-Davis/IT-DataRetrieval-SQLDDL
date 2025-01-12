@@ -1,0 +1,3 @@
+CREATE DATABASE directForeignInvestmentDatabase;
+USE directForeignInvestmentDatabase;
+SELECT * FROM directForeignInvestment;
