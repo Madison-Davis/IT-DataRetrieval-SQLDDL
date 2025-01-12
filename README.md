@@ -1,13 +1,16 @@
 # Data Retrieval
 
 # Part 1: DDL Commands in SQL: Exchange Rates
+See code for implementation. More details shown below: </br>
 Learn how to use DDL (Data Definition Language) Statements from the SQL Language to create and store Schemas in MySQL.  In this example, the data imported was based on the USD Exchange Rates for the month of January 2022. 
 
 # Part 2: DML Commands in SQL: Market Data
+See code for implementation. More details shown below: </br>
 The purpose of this project was to be able to manipulate 5-Year Stock Data through an SQL database and DML statements.
 Original Dataset: https://www.kaggle.com/datasets/camnugent/sandp500 Due to the size of the file (50000+ lines long), a select few companies were extracted from the main file and appended to a new, smaller database for manipulation.
 
 # Part 3: TCL Commands in SQL: Celtic Explorer
+See code for implementation. More details shown below: </br>
 Progress in utilizing Transaction Control Language (TCL) Statements in Permanently Updating, Saving, and Undoing data changes.
 
 Data:
@@ -18,3 +21,9 @@ Coastal regions are very important for understanding the carbon cycle. At these 
 Site: https://www.ncei.noaa.gov/products
 
 Indexes of OCADS Coastal Data: https://www.ncei.noaa.gov/data/oceans/ncei/ocads/data/0247632/
+
+
+# Part 4: MySQL Workbench
+See code for implementation. More details shown below: </br>
+Purpose of the project was to get accustomed to MySQL Workbench and successfully data mine USA Gov Statistics on their Direct Foreign Investment.
+Full data report: https://www.bea.gov/data/intl-trade-investment/direct-investment-country-and-industry
